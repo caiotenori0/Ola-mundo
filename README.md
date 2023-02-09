@@ -3,3 +3,4 @@
 
 repositório criado para acompanhar a prática do curso de git
 
+Essa linha eu adicionei diretamente do site! que impressionante.
